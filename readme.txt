@@ -1,1 +1,0 @@
-read Game.doc for project information
